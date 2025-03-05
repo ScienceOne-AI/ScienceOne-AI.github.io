@@ -8,12 +8,12 @@ language: 'en-uk'
 
 # Website info
 name: 'ScienceOne'
-description: "Under construction. Here may add some concise introduction and summary."
+description: "Under construction. Here is a concise introduction and summary."
 
 short_url: 'scienceone.cn'
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'  # 对于个人页面，使用 '/'
+# baseurl: '/'  # 对于个人页面，使用 '/'
 url: 'https://scienceone.cn'
 
 # Permalinks

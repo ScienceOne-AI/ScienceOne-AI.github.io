@@ -37,4 +37,12 @@ martin:
   url_full: http://jekyllt.github.io/jasper/
   url: jekyllt.github.io/jasper
   bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  assets: assets/images/martin.jpg
+  assets: assets/images/logo.png
+wenge:
+  username: Wenge
+  name: Wenge
+  location: Beijing, China
+  url_full: http://jekyllt.github.io/jasper/
+  url: jekyllt.github.io/jasper
+  bio: ScienceOne contributor.
+  assets: assets/images/logo.png

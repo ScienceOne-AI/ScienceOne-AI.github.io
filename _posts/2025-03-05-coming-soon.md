@@ -1,14 +1,15 @@
 ---
 layout: post
-cover: 'assets/images/cover.jpg'
+cover: 'assets/images/cover.png'
 navigation: True
 title: Coming Soon
-date: 2025-03-15 20:32:00
-tags: Blog
-subclass: 'post tag-test tag-content'
-logo: 'assets/images/logo.png'
-author: Jiahao Zhao
-categories: Blog
+date: 2025-03-05 12:00:00
+tags: announcements
+subclass: 'post tag-announcements'
+author: Wenge
+categories: Wenge
 ---
 
-Coming Soon. Content test
+This is a coming soon announcement. More content will be added in the future.
+
+Stay tuned for updates!
