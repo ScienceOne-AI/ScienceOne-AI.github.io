@@ -42,7 +42,7 @@ wenge:
   username: Wenge
   name: Wenge
   location: Beijing, China
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
+  url_full: https://www.wenge.com/
+  url: www.wenge.com
   bio: ScienceOne contributor.
-  assets: assets/images/logo.png
+  assets: assets/images/wenge_logo.png
