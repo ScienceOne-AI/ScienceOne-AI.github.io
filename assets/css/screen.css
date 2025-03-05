@@ -946,8 +946,8 @@ body.nav-opened .nav {
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
-    letter-spacing: -1px;
+    font-size: 6rem;
+    letter-spacing: -1.2px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
@@ -1784,7 +1784,7 @@ body.page-template .post-title {
     }
 
     .page-title {
-        font-size: 4rem;
+        font-size: 5rem;
         letter-spacing: -1px;
     }
 
@@ -2027,7 +2027,7 @@ body.page-template .post-title {
     }
 
     .page-title {
-        font-size: 3rem;
+        font-size: 4rem;
     }
 
     .post-excerpt p {

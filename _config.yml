@@ -8,7 +8,7 @@ language: 'en-uk'
 
 # Website info
 name: 'ScienceOne'
-description: "Under construction"
+description: "Under construction. Here may add some concise introduction and summary."
 
 short_url: 'scienceone.cn'
 # disqus: username
